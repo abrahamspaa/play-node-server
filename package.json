@@ -1,0 +1,13 @@
+{
+  "name": "play-yarn",
+  "version": "1.0.0",
+  "description": "Fun with yarn",
+  "main": "index.js",
+  "license": "MIT",
+  "scripts": {
+    "start": "node backend/server.js"
+  },
+  "engines" : { 
+    "node" : "=< 8.9.0" 
+  }
+}
